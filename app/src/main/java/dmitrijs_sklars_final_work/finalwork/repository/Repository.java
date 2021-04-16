@@ -1,4 +1,4 @@
-package main;
+package dmitrijs_sklars_final_work.finalwork.repository;
 
 import java.util.List;
 import java.util.Optional;

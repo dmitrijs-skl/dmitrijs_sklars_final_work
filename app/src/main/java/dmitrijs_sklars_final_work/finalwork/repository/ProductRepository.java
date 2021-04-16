@@ -1,10 +1,10 @@
-package main;
+package dmitrijs_sklars_final_work.finalwork.repository;
 
 import teacher.finalwork.model.Product;
 
 import java.util.*;
 
-public class ProductRepository implements teacher.finalwork.repository.Repository<Product> {
+public class ProductRepository implements Repository<Product> {
 
     private final Map<Long, Product> repository;
     private Long idCounter = 0L;

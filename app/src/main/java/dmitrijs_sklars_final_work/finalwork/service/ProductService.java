@@ -1,6 +1,8 @@
-package main;
+package dmitrijs_sklars_final_work.finalwork.service;
 
+import teacher.finalwork.model.ItemNotFoundException;
 import teacher.finalwork.model.Product;
+import teacher.finalwork.repository.ProductRepository;
 
 import java.util.List;
 import java.util.Optional;

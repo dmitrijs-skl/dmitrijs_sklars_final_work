@@ -1,4 +1,4 @@
-package main.model;
+package dmitrijs_sklars_final_work.finalwork.model;
 
 import java.math.BigDecimal;
 import java.util.Objects;

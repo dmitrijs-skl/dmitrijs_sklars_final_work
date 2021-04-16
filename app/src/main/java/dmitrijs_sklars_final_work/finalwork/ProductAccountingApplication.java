@@ -1,4 +1,7 @@
-package main;
+package dmitrijs_sklars_final_work.finalwork;
+
+
+import dmitrijs_sklars_final_work.finalwork.ui.ConsulUI;
 
 public class ProductAccountingApplication {
 

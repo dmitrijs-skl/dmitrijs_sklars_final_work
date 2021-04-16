@@ -1,6 +1,9 @@
-package main;
+package dmitrijs_sklars_final_work.finalwork.ui;
 
-import teacher.finalwork.model.Product;
+
+import dmitrijs_sklars_final_work.finalwork.model.Product;
+import dmitrijs_sklars_final_work.finalwork.model.ProductCategory;
+import dmitrijs_sklars_final_work.finalwork.service.ProductService;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
